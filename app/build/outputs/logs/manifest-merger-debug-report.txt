@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:1:1-25:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1b70c4eaac7e5a525ddfa2244967ad3f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\cc9c1d8919df433a9ab6beae26fc3fd6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\fa571dc7e4df3a18647038eb4e7b31c2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\136691e56ff5f66152fa93a8c654c896\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\faedb062382b5ce7feb331973ca0119c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\ddf7c7dad264e8bf6f67c6fba95ef376\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\dde65073cf30817f415a0972b1aad3f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\6fe5fe4231f834205a9545cd7121b0e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\7230fc00ec3b91409f0bae4da9bb4986\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\0909d1714e7a570da4e99fac655498c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\fc557427210959193b3b107829d6cd33\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\fff1f8160a92622f7de848e8d61873d0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1785e6f74c14a817e3b0573045b850ec\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\e3fe666a95318ae370a1adb7a039b1c6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\d3bc66cf04f3cc8dcf7ceef8d51de4d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\30ddfa5d5d60ea06e41d60c0553bd805\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1bdba99f4260e4965130cfca26c7e071\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\7ccca6863b9506b80dfffd93a1989802\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\8755f6ee7af9bd39395c8ab9386005d0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\6ef7a46757757f3b8ca83e2040cf50bd\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\4245cba7c13c7fba3dffc29f820bfca4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\8d578c626a3e4c72024917a9106e3431\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\d8d20d094a9fab0f79626f2530ac27ff\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\f31df976d9976f1e5fe205675d0409f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\a782c65471f86c762c519ed6e0b97d2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\990bde33d17b1c39574dadf5bb84f3ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1e8bff87626ceb938d33a5800761c9b0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\a0b31775667267660724d88cfa42bd27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\78299214a38dafc80010ed0e173e4965\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\f4ececded4caaed6a1cb00d60790d82a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\eaecf98829787a114e3d861485aa0fbc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\f5a90e042b28bb27386726872abcde21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\aa948cbc88ecdec416383a3e1863b93c\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:3:2-43
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:2:2-60
+application
+ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:4:2-24:16
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1b70c4eaac7e5a525ddfa2244967ad3f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1b70c4eaac7e5a525ddfa2244967ad3f\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\6ef7a46757757f3b8ca83e2040cf50bd\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\6ef7a46757757f3b8ca83e2040cf50bd\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\d8d20d094a9fab0f79626f2530ac27ff\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\d8d20d094a9fab0f79626f2530ac27ff\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\6ef7a46757757f3b8ca83e2040cf50bd\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:6:3-30
+	android:largeHeap
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:8:3-27
+	android:icon
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:7:3-36
+	android:allowBackup
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:5:3-29
+	android:theme
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:9:3-34
+activity#com.colourstab.androidwithlucky.MainActivity
+ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:10:3-20:14
+	android:screenOrientation
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:14:4-40
+	android:windowSoftInputMode
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:15:4-45
+	android:configChanges
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:12:4-50
+	android:theme
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:13:4-46
+	android:name
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:11:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:16:4-19:20
+action#android.intent.action.MAIN
+ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:17:5-56
+	android:name
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:17:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:18:5-64
+	android:name
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:18:15-62
+uses-library#org.apache.http.legacy
+ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:21:3-23:30
+	android:required
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:23:4-28
+	android:name
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml:22:4-41
+uses-sdk
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1b70c4eaac7e5a525ddfa2244967ad3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1b70c4eaac7e5a525ddfa2244967ad3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\cc9c1d8919df433a9ab6beae26fc3fd6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\cc9c1d8919df433a9ab6beae26fc3fd6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\fa571dc7e4df3a18647038eb4e7b31c2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\fa571dc7e4df3a18647038eb4e7b31c2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\136691e56ff5f66152fa93a8c654c896\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\136691e56ff5f66152fa93a8c654c896\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\faedb062382b5ce7feb331973ca0119c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\faedb062382b5ce7feb331973ca0119c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\ddf7c7dad264e8bf6f67c6fba95ef376\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\ddf7c7dad264e8bf6f67c6fba95ef376\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\dde65073cf30817f415a0972b1aad3f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\dde65073cf30817f415a0972b1aad3f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\6fe5fe4231f834205a9545cd7121b0e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\6fe5fe4231f834205a9545cd7121b0e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\7230fc00ec3b91409f0bae4da9bb4986\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\7230fc00ec3b91409f0bae4da9bb4986\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\0909d1714e7a570da4e99fac655498c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\0909d1714e7a570da4e99fac655498c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\fc557427210959193b3b107829d6cd33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\fc557427210959193b3b107829d6cd33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\fff1f8160a92622f7de848e8d61873d0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\fff1f8160a92622f7de848e8d61873d0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1785e6f74c14a817e3b0573045b850ec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1785e6f74c14a817e3b0573045b850ec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\e3fe666a95318ae370a1adb7a039b1c6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\e3fe666a95318ae370a1adb7a039b1c6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\d3bc66cf04f3cc8dcf7ceef8d51de4d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\d3bc66cf04f3cc8dcf7ceef8d51de4d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\30ddfa5d5d60ea06e41d60c0553bd805\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\30ddfa5d5d60ea06e41d60c0553bd805\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1bdba99f4260e4965130cfca26c7e071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1bdba99f4260e4965130cfca26c7e071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\7ccca6863b9506b80dfffd93a1989802\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\7ccca6863b9506b80dfffd93a1989802\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\8755f6ee7af9bd39395c8ab9386005d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\8755f6ee7af9bd39395c8ab9386005d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\6ef7a46757757f3b8ca83e2040cf50bd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\6ef7a46757757f3b8ca83e2040cf50bd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\4245cba7c13c7fba3dffc29f820bfca4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\4245cba7c13c7fba3dffc29f820bfca4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\8d578c626a3e4c72024917a9106e3431\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\8d578c626a3e4c72024917a9106e3431\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\d8d20d094a9fab0f79626f2530ac27ff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\d8d20d094a9fab0f79626f2530ac27ff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\f31df976d9976f1e5fe205675d0409f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\f31df976d9976f1e5fe205675d0409f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\a782c65471f86c762c519ed6e0b97d2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\a782c65471f86c762c519ed6e0b97d2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\990bde33d17b1c39574dadf5bb84f3ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\990bde33d17b1c39574dadf5bb84f3ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1e8bff87626ceb938d33a5800761c9b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\1e8bff87626ceb938d33a5800761c9b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\a0b31775667267660724d88cfa42bd27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\a0b31775667267660724d88cfa42bd27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\78299214a38dafc80010ed0e173e4965\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\78299214a38dafc80010ed0e173e4965\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\f4ececded4caaed6a1cb00d60790d82a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\f4ececded4caaed6a1cb00d60790d82a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\eaecf98829787a114e3d861485aa0fbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\eaecf98829787a114e3d861485aa0fbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\f5a90e042b28bb27386726872abcde21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\f5a90e042b28bb27386726872abcde21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\aa948cbc88ecdec416383a3e1863b93c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lucky\.gradle\caches\transforms-2\files-2.1\aa948cbc88ecdec416383a3e1863b93c\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\For Youtube\app\src\main\AndroidManifest.xml
